@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 new test git
+=======
+new test git
+ modified
+new change in master
+>>>>>>> new_branch
