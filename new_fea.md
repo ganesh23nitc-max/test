@@ -1,1 +1,1 @@
-today we are creating a new feature ##
+this is the new line written for a conflict
